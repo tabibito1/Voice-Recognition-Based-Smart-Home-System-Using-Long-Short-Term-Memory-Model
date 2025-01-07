@@ -22,4 +22,4 @@ pip3 install gpiozero sounddevice wavio librosa numpy pandas tensorflow keras
 pip3 install scipy matplotlib
 
 langkah 4:
-Wiring sistem sesuai dengan gambar pada file "system wiring"
+Wiring sistem sesuai dengan gambar pada file skematik.png
