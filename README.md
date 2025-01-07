@@ -15,6 +15,7 @@ Buat virtual enviroment untuk program dan library yang dibutuhkan. Penting untuk
 Jalankan kode berikut pada terminal:
 
 python3 -m venv nama_env (nama_env bisa diganti dengan nama virtual environment yang anda mau)
+
 source nama_env/bin/activate (untuk mengaktifkan virtual environment)
 
 langkah 3:
@@ -22,6 +23,7 @@ Install library yang dibutuhkan.
 
 Jalankan kode berikut:
 pip3 install gpiozero sounddevice wavio librosa numpy pandas tensorflow keras
+
 pip3 install scipy matplotlib
 
 langkah 4:
