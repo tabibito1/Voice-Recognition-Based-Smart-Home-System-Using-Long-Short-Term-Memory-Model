@@ -2,7 +2,7 @@
 File yang diperlukan untuk menggunakan sistem
 
 langkah 1:
-Silahkan unduh file berikut:
+Silahkan unduh file berikut: /n
 
 realTimeCodeRaspberry.py, dan model_lstm_fix_v2.h5
 
